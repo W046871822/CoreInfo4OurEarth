@@ -116,6 +116,7 @@ colgroup {
 
 .topnav a {
     background-color:rgb(125, 177, 219);  
+    border-radius: 10px;
     float: left;
     display: block;
     text-align: center;
